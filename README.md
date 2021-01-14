@@ -1,4 +1,4 @@
 # Algorithms
 
-Algoritmos de Estrutura de Dados escritos em C
+Data Structure Algorithms in C
 
